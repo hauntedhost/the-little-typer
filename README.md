@@ -9,4 +9,4 @@
 Personal code while reading [The Little Typer](https://www.amazon.com/gp/product/0262536439).
 
 ---
-[Sean Omlor](http://seanomlor.com)
+👻 [haunted.host](https://www.haunted.host)
